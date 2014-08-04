@@ -2,9 +2,9 @@
 
 [2014年巴黎71家好吃的甜点面包店大集合](http://bbs.qyer.com/thread-965221-1.html).
 
-#### [【Sadaharu AOKI】人气日本甜点店](http://bbs.qyer.com/thread-951229-1.html)
+#### Sadaharu AOKI 人气日本甜点店
 
-
+[blog source](http://bbs.qyer.com/thread-951229-1.html)
 
 ![sadaharu0.jpg](sadaharu0.jpg)
 
