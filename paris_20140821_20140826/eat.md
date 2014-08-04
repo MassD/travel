@@ -6,15 +6,15 @@
 
 [blog source](http://bbs.qyer.com/thread-951229-1.html)
 
-![sadaharu0.jpg](sadaharu0.jpg)
+![sadaharu0.jpg](img/sadaharu0.jpg)
 
-![sadaharu1.jpg](sadaharu1.jpg)
+![sadaharu1.jpg](img/sadaharu1.jpg)
 
-![sadaharu4.jpg](sadaharu4.jpg)
+![sadaharu4.jpg](img/sadaharu4.jpg)
 
-![sadaharu2.jpg](sadaharu2.jpg)
+![sadaharu2.jpg](img/sadaharu2.jpg)
 
-![sadaharu3.jpg](sadaharu3.jpg)
+![sadaharu3.jpg](img/sadaharu3.jpg)
 
 [Website](http://www.sadaharuaoki.com/)
 
@@ -30,9 +30,9 @@
 
 
 
-![mori0.jpg](mori0.jpg)
-![mori1.jpg](mori1.jpg)
-![mori2.jpg](mori2.jpg)
+![mori0.jpg](img/mori0.jpg)
+![mori1.jpg](img/mori1.jpg)
+![mori2.jpg](img/mori2.jpg)
 
 [Website](http://www.moriyoshida.fr/)
 
