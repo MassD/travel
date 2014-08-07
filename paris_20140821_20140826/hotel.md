@@ -13,7 +13,7 @@
 
 On the above map, only live in **good** marked area.
 
-
+---
 ### Booked Already
 
 ##### Hotel Max
