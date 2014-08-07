@@ -20,6 +20,8 @@ On the above map, only live in **good** marked area.
 
 [booking.com link](http://www.booking.com/hotel/fr/jardindalesia.en-gb.html?aid=355028;sid=8538f2e84217b29faa6d600cbb5795e4;dcid=4;checkin=2014-08-21;checkout=2014-08-26;ucfs=1;pr=70,160;pr_cur_code=GBP;srfid=b940343ea4697cb1e4bc47f79d17a87ccc766b01X1;highlight_room=5064102)
 
+[official link](http://www.hotel-max.fr/)
+
 **Address**: 34, rue d'Alésia, **14th arr**. - Montparnasse, 75014 Paris, France
 
 Must be cancelled before **18 Aug, 2-14**. [cancel link](http://www.secure-hotel-booking.com/Hotel-MAX/2H3V/cancel?ref=J98GHN)
@@ -33,6 +35,8 @@ Parking: Public parking is possible at a location nearby (reservation is needed)
 #### Seven Hotel
 
 [booking.com link](http://www.booking.com/hotel/fr/seven.en-gb.html?aid=355028;sid=8538f2e84217b29faa6d600cbb5795e4;dcid=4;checkin=2014-08-21;checkout=2014-08-26;ucfs=1;pr=70,160;pr_cur_code=GBP;srfid=0d7627e7d4cb0011e9a7b481465260d61b41c73eX12;highlight_room=24310701)
+
+[official link](http://www.sevenhotelparis.com/)
 
 **Address**: 20 rue Berthollet, **5th arr**. - Quartier Latin, 75005 Paris, France
 
