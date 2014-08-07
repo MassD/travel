@@ -27,7 +27,9 @@ Must be cancelled before **18 Aug, 2-14**. [cancel link](http://www.secure-hotel
 Price: 665 Eur
 
 Parking: Public parking is possible at a location nearby (reservation is needed) and costs EUR 18 per day.
+
 ---
+
 #### Seven Hotel
 
 [booking.com link](http://www.booking.com/hotel/fr/seven.en-gb.html?aid=355028;sid=8538f2e84217b29faa6d600cbb5795e4;dcid=4;checkin=2014-08-21;checkout=2014-08-26;ucfs=1;pr=70,160;pr_cur_code=GBP;srfid=0d7627e7d4cb0011e9a7b481465260d61b41c73eX12;highlight_room=24310701)
