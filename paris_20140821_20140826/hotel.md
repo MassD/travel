@@ -16,6 +16,16 @@ On the above map, only live in **good** marked area.
 ---
 ### Booked Already
 ---
+
+#### Hotel Villa Glamour Tour Eiffel
+
+[official website](http://www.hotelvillaglamour.com)
+
+[cancel link](http://www.secure-hotel-booking.com/Hotel-Villa-Glamour-Tour-Eiffel/2H1A/cancel?ref=J9I6MI)
+
+Price: 601 Eur
+
+
 #### Hotel Max
 
 [booking.com link](http://www.booking.com/hotel/fr/jardindalesia.en-gb.html?aid=355028;sid=8538f2e84217b29faa6d600cbb5795e4;dcid=4;checkin=2014-08-21;checkout=2014-08-26;ucfs=1;pr=70,160;pr_cur_code=GBP;srfid=b940343ea4697cb1e4bc47f79d17a87ccc766b01X1;highlight_room=5064102)
