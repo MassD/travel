@@ -27,3 +27,7 @@
 ### Day 5, 2014-08-25 卢浮宫，巴黎圣母院
 - Open 9:00-18:00
 - Ticket: 11 euro
+
+### Day 6, 2014-08-26 圣心堂
+- if have time go in the morning
+- it closes to euro star station
