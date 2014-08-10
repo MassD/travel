@@ -59,3 +59,11 @@ Booked twice in official website and bookings.com
 cancel in official website: login into ibis website using massd.me@gmail.com, then cancel
 
 ---
+
+### Hotel Interested 
+
+#### Best Western Sèvres Montparnasse 
+
+[official link](http://www.hotel-sevres-montparnasse-paris.com/rooms.html)
+
+Price: €460 (including **free breakfast**)
