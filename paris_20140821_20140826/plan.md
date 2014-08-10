@@ -25,3 +25,5 @@
 - Ticket: castle only 15 euro
 
 ### Day 5, 2014-08-25 卢浮宫，巴黎圣母院
+- Open 9:00-18:00
+- Ticket: 11 euro
