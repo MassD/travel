@@ -28,3 +28,19 @@ Plugin execution not covered by lifecycle configuration: org.apache.maven.plugin
 4. Description	Resource	Path	Location	Type
 Plugin execution not covered by lifecycle configuration: org.apache.maven.plugins:maven-compiler-plugin:2.3.2:testCompile 
 (execution: default-testCompile, phase: test-compile)	pom.xml	/sparqlimport	line 1	Maven Project Build Lifecycle Mapping Problem
+
+
+#### Solution 1
+
+1. add dependency to pom.xml
+
+<dependency>
+    <groupId>org.apache.maven.plugins</groupId>
+    <artifactId>maven-resources-plugin</artifactId>
+    <version>2.4.3</version>
+</dependency>
+2. run mvn install from Eclipse or from command line
+
+3. refresh the project in eclipse (F5)
+
+4. run Maven > Update Project Configuration... on project (right click)
